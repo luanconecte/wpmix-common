@@ -1,0 +1,10 @@
+{
+	"name": "luanconecte/wpmix-common",
+	"description": "Lib Mix Common",
+	"homepage": "http://luanoliveira.me",
+	"autoload": {
+		"psr-4": {
+		   "Mix\\": "src"
+		}
+	}
+}
